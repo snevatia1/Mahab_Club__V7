@@ -1,0 +1,353 @@
+[
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "A",
+    "room_no": "A-1"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "quad",
+    "block": "A",
+    "room_no": "A-2"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "A",
+    "room_no": "A-3"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "quad",
+    "block": "A",
+    "room_no": "A-4"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "A",
+    "room_no": "A-5"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "A",
+    "room_no": "A-6"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "A",
+    "room_no": "A-7"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "A",
+    "room_no": "A-8"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "A",
+    "room_no": "A-9"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "quad",
+    "block": "B",
+    "room_no": "B-1"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "quad",
+    "block": "B",
+    "room_no": "B-2"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "quad",
+    "block": "B",
+    "room_no": "B-3"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "quad",
+    "block": "B",
+    "room_no": "B-4"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "quad",
+    "block": "B",
+    "room_no": "B-5"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "quad",
+    "block": "B",
+    "room_no": "B-6"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "quad",
+    "block": "B",
+    "room_no": "B-7"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "quad",
+    "block": "B",
+    "room_no": "B-8"
+  },
+  {
+    "Airconditioning": false,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "double",
+    "block": "B",
+    "room_no": "B-9"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "Old C",
+    "room_no": "C-1"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "Old C",
+    "room_no": "C-2"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "Old C",
+    "room_no": "C-3"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "Old C",
+    "room_no": "C-4"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "Old C",
+    "room_no": "C-5"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "Old C",
+    "room_no": "C-6"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": false,
+    "Pets Permitted": true,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "New C",
+    "room_no": "C-7"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": false,
+    "Pets Permitted": true,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "New C",
+    "room_no": "C-8"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": false,
+    "Pets Permitted": true,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "New C",
+    "room_no": "C-9"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": false,
+    "Pets Permitted": true,
+    "Group Booking Permitted": true,
+    "type": "double",
+    "block": "New C",
+    "room_no": "C-10"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": true,
+    "Pets Permitted": true,
+    "Group Booking Permitted": false,
+    "type": "double",
+    "block": "D",
+    "room_no": "D-1"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": true,
+    "Pets Permitted": true,
+    "Group Booking Permitted": false,
+    "type": "double",
+    "block": "D",
+    "room_no": "D-2"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": true,
+    "Pets Permitted": true,
+    "Group Booking Permitted": false,
+    "type": "double",
+    "block": "D",
+    "room_no": "D-3"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": true,
+    "Pets Permitted": true,
+    "Group Booking Permitted": false,
+    "type": "double",
+    "block": "D",
+    "room_no": "D-4"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": false,
+    "Pets Permitted": true,
+    "Group Booking Permitted": false,
+    "type": "double",
+    "block": "Old E",
+    "room_no": "E-1"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": false,
+    "Pets Permitted": true,
+    "Group Booking Permitted": false,
+    "type": "double",
+    "block": "Old E",
+    "room_no": "E-2"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": false,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "double",
+    "block": "Old E",
+    "room_no": "E-3"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "double",
+    "block": "New E",
+    "room_no": "E-4"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "double",
+    "block": "New E",
+    "room_no": "E-5"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "double",
+    "block": "New E",
+    "room_no": "E-6"
+  },
+  {
+    "Airconditioning": true,
+    "Wheel Chair Access": true,
+    "Pets Permitted": false,
+    "Group Booking Permitted": false,
+    "type": "double",
+    "block": "New E",
+    "room_no": "E-7"
+  }
+]
