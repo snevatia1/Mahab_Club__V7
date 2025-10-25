@@ -1,0 +1,20 @@
+[
+  {
+    "label": "Diwali Season",
+    "from": "2025-10-17",
+    "to": "2025-11-02",
+    "tag": "season"
+  },
+  {
+    "label": "Christmas / New Year Season",
+    "from": "2025-12-19",
+    "to": "2026-01-04",
+    "tag": "season"
+  },
+  {
+    "label": "Republic Day Long Weekend",
+    "from": "2026-01-23",
+    "to": "2026-01-26",
+    "tag": "lw"
+  }
+]
