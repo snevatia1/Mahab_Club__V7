@@ -1,0 +1,72 @@
+[
+  {
+    "Category": "MEMBER (Double Occupancy)",
+    "Regular Days (Incl GST)": "5,250",
+    "Special Days (Incl GST)": "6,300"
+  },
+  {
+    "Category": "Extra Adult (10 & above 10)",
+    "Regular Days (Incl GST)": "2,100",
+    "Special Days (Incl GST)": "2,520"
+  },
+  {
+    "Category": "Extra Child (5 & above 5 upto 10)",
+    "Regular Days (Incl GST)": "1,050",
+    "Special Days (Incl GST)": "1,260"
+  },
+  {
+    "Category": "MEMBER (Single Occupancy in Double room)",
+    "Regular Days (Incl GST)": "4,200",
+    "Special Days (Incl GST)": "5,040"
+  },
+  {
+    "Category": "MEMBER (Single Occupancy in single room)",
+    "Regular Days (Incl GST)": "2,625",
+    "Special Days (Incl GST)": "3,150"
+  },
+  {
+    "Category": "MEMBER Senior Citizen (65 & above) Double Occupancy",
+    "Regular Days (Incl GST)": "4,725",
+    "Special Days (Incl GST)": "5,670"
+  },
+  {
+    "Category": "Extra Adult (Senior Citizen)",
+    "Regular Days (Incl GST)": "1,890",
+    "Special Days (Incl GST)": "2,268"
+  },
+  {
+    "Category": "MEMBER (Senior Citizen) Single Occupancy in double room",
+    "Regular Days (Incl GST)": "3,780",
+    "Special Days (Incl GST)": "4,536"
+  },
+  {
+    "Category": "MEMBER (Senior Citizen) Single Occupancy in Single room",
+    "Regular Days (Incl GST)": "2,363",
+    "Special Days (Incl GST)": "2,835"
+  },
+  {
+    "Category": "TEMPORARY MEMBER (Double Occupancy)",
+    "Regular Days (Incl GST)": "9,580",
+    "Special Days (Incl GST)": "11,449"
+  },
+  {
+    "Category": "Extra Adult (10 & above 10)",
+    "Regular Days (Incl GST)": "3,622",
+    "Special Days (Incl GST)": "4,323"
+  },
+  {
+    "Category": "Extra Child (5 & above 5 upto 10)",
+    "Regular Days (Incl GST)": "1,811",
+    "Special Days (Incl GST)": "2,161"
+  },
+  {
+    "Category": "TEMPORARY MEMBER (Single Occupancy in double room)",
+    "Regular Days (Incl GST)": "7,710",
+    "Special Days (Incl GST)": "9,228"
+  },
+  {
+    "Category": "TEMPORARY MEMBER (Single Occupancy in single room)",
+    "Regular Days (Incl GST)": "4,790",
+    "Special Days (Incl GST)": "5,724"
+  }
+]
