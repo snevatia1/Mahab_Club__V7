@@ -1,0 +1,39 @@
+{
+  "booking_windows": {
+    "member_days": 180,
+    "member_plus_temp_days": 90,
+    "temp_only_days": 60
+  },
+  "caps": {
+    "weekday_member_max_rooms": 6,
+    "weekend_member_plus_temp_max": 3,
+    "unaccompanied_temp_max": 3
+  },
+  "group": {
+    "min_rooms": 10,
+    "max_rooms": 19,
+    "allowed_on_special": false,
+    "deposit": 20000,
+    "block_caps": {
+      "C": 10,
+      "A": 9
+    }
+  },
+  "features": {
+    "ac_extra": 1000
+  },
+  "meals": {
+    "require_split_equals_total": true
+  },
+  "release_days_before": 14,
+  "messages": {
+    "header": "Booking days for Member & Groups 180, Member + Temp M 90, Only Temp M 60. Choose in & out dates below.",
+    "window_exceeded_temp": "Temp-only bookings can be made up to 60 days in advance for these dates.",
+    "caps_weekend": "Weekend cap: 1 room for self + 2 for Temp (max 3 total).",
+    "dues_pending": "We couldn’t send the OTP because your account shows outstanding dues. Please contact the office.",
+    "meals_mismatch": "Veg + Non-Veg must equal the total number of occupants.",
+    "partial_room": "Room EE-5 is available only 29 Oct–31 Oct. Click Auto-chain to add EE-6 for 1 Nov.",
+    "group_note": "Final list + ID proofs must reach the Club 15 days in advance.",
+    "disclaimer": "The Club will try to give the rooms and types you selected but may change the same as per availability at the time of booking."
+  }
+}
